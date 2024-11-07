@@ -1,8 +1,8 @@
 ## Olá! Me chamo Matheus Gabriel Reboucas👋
 
 - 🔭  Desenvolvendo projetos em HTML & CSS;
-- 🌱  Graduando em Ciência da computação na UERN;
-- 📔  Estudando JAVA, C++;
+- 🌱  Graduando em Ciência da computação na Descomplica;
+- 📔  Estudando JS, MySQL, Node.JS, PHP, C++;
 
 <div align="center">
   <a href="https://github.com/MGreboucas">
