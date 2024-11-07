@@ -1,6 +1,6 @@
 ## Olá! Me chamo Matheus Gabriel Reboucas👋
 
-- 🔭  Desenvolvendo projetos em HTML & CSS;
+- 🔭  Software Engineer;
 - 🌱  Graduando em Ciência da computação na Descomplica;
 - 📔  Estudando JS, MySQL, Node.JS, PHP, C++;
 
