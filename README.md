@@ -2,7 +2,7 @@
 
 - 🔭  Software Engineer;
 - 🌱  Graduando em Ciência da computação na Descomplica;
-- 📔  Me aperfeiçuando em HTML5 e CSS3, JS, React.JS, Node.JS, C++;
+- 📔  Me aperfeiçuando em HTML5 e CSS3, Javascript, Typescript, React.JS, Node.JS e C++;
 
 <div align="center">
   <a href="https://github.com/MGreboucas">
