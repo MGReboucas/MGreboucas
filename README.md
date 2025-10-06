@@ -9,6 +9,7 @@ Olá! Sou um Software Engineer apaixonado por construir aplicações robustas e 
 
 - **🎯 Domínio Atual (Alura)**: **React**, **React Native** (Mobile), arquitetura com **Typescript**, e APIs escaláveis com **Node.js**.
 - **📚 Outras Habilidades:** Sólidos conhecimentos em linguagens de programação de *backend* robustas como **Java** e **C++**.
+<br/>
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
@@ -16,7 +17,8 @@ Olá! Sou um Software Engineer apaixonado por construir aplicações robustas e 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MGreboucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGreboucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br/>
+    
 ## 🛠️ Tecnologias e Stacks
 <div align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
@@ -30,10 +32,11 @@ Olá! Sou um Software Engineer apaixonado por construir aplicações robustas e 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
-  
- ### Social Media
-<div><br>
-    <a href="https://instagram.com/matheusreboucas_" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<br/>
+
+ ## 🔗 Social Media
+ <div align="center"><br>
+  <a href="https://instagram.com/matheusreboucas_" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusreboucas44" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://meu-portifolio-gilt.vercel.app/index.html" target="_blank" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
- </div>
+</div>
