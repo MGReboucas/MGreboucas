@@ -1,12 +1,12 @@
 # Olá! Me chamo Matheus Gabriel Reboucas 👋
 
-2  - 👨‍💻 Software Engineer;
-3  - 🎓 Tecnólogo em Análise e desenvolvimento de Sistemas pela UNINASSAU;
+- 👨‍💻 Software Engineer;
+- - 🎓 Tecnólogo em Análise e desenvolvimento de Sistemas pela UNINASSAU;
 
 ## 🛠️ Tecnologias e Stacks
 
-6  - ⚡ **Foco Atual (Full-Stack)**: **React Native** (Mobile), **React** (Web), **Typescript** e **Node.js** (Backend/Server);
-7  - ⚙️ **Outras Tecnologias/Skills**: HTML5, CSS3, Javascript, Java, C++;
+- ⚡ **Foco Atual (Full-Stack)**: **React Native** (Mobile), **React** (Web), **Typescript** e **Node.js** (Backend/Server);
+- ⚙️ **Outras Tecnologias/Skills**: HTML5, CSS3, Javascript, Java, C++;
 
 <div align="center">
   <a href="https://github.com/MGreboucas">
