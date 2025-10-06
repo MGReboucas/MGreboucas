@@ -6,7 +6,8 @@
 ## 💻 Sobre o meu trabalho
 
 Olá! Sou um Software Engineer apaixonado por construir aplicações robustas e escaláveis, com foco em desenvolvimento **Full-Stack JavaScript ou Typescript**. Sou especialista em criar experiências de usuário fluidas e nativas para Web e Mobile.
-<br/>
+
+
 - **🎯 Domínio Atual (Alura)**: **React**, **React Native** (Mobile), arquitetura com **Typescript**, e APIs escaláveis com **Node.js**.
 - **📚 Outras Habilidades:** Sólidos conhecimentos em linguagens de programação de *backend* robustas como **Java** e **C++**.
 <br/>
