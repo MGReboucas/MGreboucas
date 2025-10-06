@@ -1,7 +1,7 @@
 # Olá! Me chamo Matheus Gabriel Reboucas 👋
 
 - 👨‍💻 Software Engineer;
-- - 🎓 Tecnólogo em Análise e desenvolvimento de Sistemas pela UNINASSAU;
+- 🎓 Tecnólogo em Análise e desenvolvimento de Sistemas pela UNINASSAU;
 
 ## 🛠️ Tecnologias e Stacks
 
