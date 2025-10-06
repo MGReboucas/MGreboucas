@@ -1,10 +1,10 @@
-1  # Olá! Me chamo Matheus Gabriel Reboucas 👋
+# Olá! Me chamo Matheus Gabriel Reboucas 👋
 
 2  - 👨‍💻 Software Engineer;
 3  - 🎓 Tecnólogo em Análise e desenvolvimento de Sistemas pela UNINASSAU;
 
-4  ## 🛠️ Tecnologias e Stacks
-5  
+## 🛠️ Tecnologias e Stacks
+
 6  - ⚡ **Foco Atual (Full-Stack)**: **React Native** (Mobile), **React** (Web), **Typescript** e **Node.js** (Backend/Server);
 7  - ⚙️ **Outras Tecnologias/Skills**: HTML5, CSS3, Javascript, Java, C++;
 
