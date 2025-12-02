@@ -11,14 +11,6 @@ Olá! Sou um Software Engineer apaixonado por construir aplicações robustas e 
 - **🎯 Domínio Atual (Alura)**: **React**, **React Native** (Mobile), arquitetura com **Typescript**, e APIs escaláveis com **Node.js**.
 - **📚 Outras Habilidades:** Sólidos conhecimentos em linguagens de programação de *backend* robustas como **Java** e **C++**.
 <br/>
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/MGreboucas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MGreboucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGreboucas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br/>
     
 ## 🛠️ Tecnologias e Stacks
 <div align="center">
