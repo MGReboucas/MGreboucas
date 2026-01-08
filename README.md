@@ -1,7 +1,7 @@
     
 ## 🛠️ Tecnologias e Stacks
 <div align="start">
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,py,postgres,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </div>
 
  ## 🔗 Social Media
